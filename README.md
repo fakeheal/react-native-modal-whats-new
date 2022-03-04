@@ -1,7 +1,7 @@
 <p align='center'>⚠️ Library is still in development ⚠️</p>
 <h1 align="center">React Native Modal What's New</h1>
 <p align='center'>
-    React Native Modal component with a CLI tool for generating user-friendly content for a "_What's new?_"-y modal.
+    React Native Modal component with a CLI tool for generating user-friendly content for a "What's new?"-y modal.
 </p>
 
 <p align='center'>
