@@ -1,22 +1,47 @@
-# react-native-modal-whats-new
+<p align='center'>⚠️ Library is still in development ⚠️</p>
+<h1 align="center">React Native Modal What's New</h1>
+<p align='center'>
+    React Native Modal component with a CLI tool for generating user-friendly content for a "_What's new?_"-y modal.
+</p>
 
-CLI & RN Component for displaying what's new in the latest version of your app.
+<p align='center'>
+    <a href="https://snack.expo.dev/@fakeheal">
+    Try the Expo Snack 👏
+    </a>
+<br>
+</p>
 
-## Installation
+## 🕹️ Demo
+
+> @TODO: Add GIFs of the Demo app.
+
+[//]: # (_Click on the image to see it in a larger size_.)
+## 👋 Introduction
+
+> @TODO: Simple description of the library
+## ⚙️ Installation
 
 ```sh
-npm install react-native-modal-whats-new
+yarn add react-modal-whats-new
 ```
 
-## Usage
+## ✂️ Usage
 
 ```js
-import { multiply } from "react-native-modal-whats-new";
+import ModalWhatsNew from 'react-native-whats-new';
 
-// ...
-
-const result = await multiply(3, 7);
+<ModalWhatsNew
+  {/*@TODO: Basic, minimal example of the */}
+/>
 ```
+
+For more detailed example, take a look at the demo app inside [example/](./example).
+
+## ⚪ Props
+
+| Property          | Type       | Default   | Description                                                                                                                                                            |
+|-------------------|------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 ## Contributing
 
